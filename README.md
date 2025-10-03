@@ -5,8 +5,12 @@
 
 <figure>
   <img src="./assets/la_danse_matisse.jpg" alt="la_danse_matisse" width="500" />
-  <figcaption>Henri Matisse – La Danse 1909, retrieved from <a src="https://en.wikipedia.org/wiki/Dance_%28Matisse%29">Wikipedia</a>, Public Domain</figcaption>
+  <figcaption>
+    Henri Matisse – La Danse 1909, retrieved from 
+    <a href="https://en.wikipedia.org/wiki/Dance_%28Matisse%29">Wikipedia</a>, Public Domain.
+  </figcaption>
 </figure>
+
 
 
 
