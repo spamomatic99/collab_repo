@@ -4,12 +4,13 @@
 
 
 <figure>
-  <img src="./assets/la_danse_matisse.jpg" alt="la_danse_matisse" width="500" />
+  <img src="./assets/la_danse_matisse.jpg" alt="la_danse_matisse" />
   <figcaption>
     Henri Matisse – La Danse 1909, retrieved from 
     <a href="https://en.wikipedia.org/wiki/Dance_%28Matisse%29">Wikipedia</a>, Public Domain.
   </figcaption>
 </figure>
+
 
 
 
@@ -65,7 +66,7 @@ In there, there are three git commands which represents what you will use  90% o
 
 ## Adding a `.gitignore`
 
-Often overlooked by beginners, this is probably the best feature of github IMHO. Let's say that you have your local repo in a folder in which there are also LLM API keys or data which are either very large or you just don't want to share. In this case you can add them to a `.gitignore` file - that you need to create - and they will stay only in your local repo. You can add both files and directories (name ending in `/`), and also use wildcards
+Often overlooked by beginners, this is IMHO probably the best feature of github. Let's say that you have your local repo in a folder in which there are also LLM API keys or data which are either very large or you just don't want to share. In this case you can add them to a `.gitignore` file - that you need to create - and they will stay only in your local repo. You can add both files and directories (name ending in `/`), and also use wildcards
 
 ```bash
 # example of a .gitignore file
@@ -130,7 +131,23 @@ Of course there are ways to "go back in time" and to prevent collaborators to di
 
 
 
+## Fork and create a dev branch
 
+Now we start with the actual part on collaboration. Let's say you are user `spam`, and you want to contribute to a repo. First thing to do is to fork it into your account.
+
+This can be easily done by going to the github website of the github repo and press the Fork button. It makes sense to leave the same name of the original repo, but you can use whatever you want.
+
+
+
+![fork_1](./assets/fork_1.png) 
+
+
+
+![fork_2](./assets/fork_2.png)
+
+
+
+![fork_3](./assets/fork_3.png)
 
 
 
