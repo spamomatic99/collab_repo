@@ -3,6 +3,13 @@
 
 
 
+<figure>
+  <img src="./assets/la_danse_matisse.jpg" alt="la_danse_matisse" width="500" />
+  <figcaption>Henri Matisse – La Danse 1909, retrieved from <a src="https://en.wikipedia.org/wiki/Dance_%28Matisse%29">Wikipedia</a>, Public Domain</figcaption>
+</figure>
+
+
+
 ## Authenticating on Github
 
 Before you can interact with github by pushing changes to your repos, you need to establish a way to authenticate with github. For some time now, it is not anymore possible to use username and password. Instead, you should upload an ssh public key in your account. If you don't know what I am talking about, please [read this page](./ssh_keys.md), otherwise, just read on. 
